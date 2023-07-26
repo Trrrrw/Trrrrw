@@ -4,7 +4,11 @@
 
 ![anili](https://img.anili.st/user/5988404)
 
-<a href="https://www.trrw.tech/genshin/card/" target="_blank"><img style="width:100%" src="https://genshin-card.trrw.tech/89/73468149.png"></a>
+<a href="https://www.trrw.tech/hk3/card/" target="_blank"><img style="width:100%" src="https://honkai-3rd-card.trrrrw.repl.co/109/73468149.png"></a>
 
 <a href="https://www.trrw.tech/sr/card/" target="_blank"><img style="width:100%" src="https://star-rail-card.trrrrw.repl.co/109/73468149.png"></a>
+
+<a href="https://www.trrw.tech/genshin/card/" target="_blank"><img style="width:100%" src="https://genshin-card.trrw.tech/89/73468149.png"></a>
+
+
 

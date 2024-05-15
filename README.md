@@ -1,4 +1,4 @@
-![Trrrrw](https://count.getloli.com/get/@Trrrrw)<img width="20%" src="https://cdn.staticaly.com/gh/Trrrrw/image-hosting@master/images/%E5%A4%A7%E4%BD%AC%E9%82%A6%E9%82%A6-%E4%BB%A3%E7%A0%81.webp">
+![Trrrrw](https://count.getloli.com/get/@Trrrrw)<img width="20%" src="[https://cdn.staticaly.com/gh/Trrrrw/image-hosting@master/images/%E5%A4%A7%E4%BD%AC%E9%82%A6%E9%82%A6-%E4%BB%A3%E7%A0%81.webp](https://cdn.jsdelivr.net/gh/Trrrrw/image-hosting@master/images/%E5%A4%A7%E4%BD%AC%E9%82%A6%E9%82%A6-%E4%BB%A3%E7%A0%81.webp)">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trrrrw&layout=compact&theme=buefy)![Trrrrw's github stats](https://github-readme-stats.vercel.app/api?username=Trrrrw&show_icons=true)
 

@@ -6,13 +6,13 @@ I'm a self-taught passionate Python developer from China 🇨🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Independent developer
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing Python
 
 - 💬 Ask me about anything [here](https://github.com/Trrrrw/Trrrrw/issues)
+
+- 🌹 This profile copied [here](https://github.com/anuraghazra)
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="qt" src="https://raw.githubusercontent.com/github/explore/bc2367726201f1c5a6733d7ccd209a2e7b90a756/topics/qt/qt.png"></code>

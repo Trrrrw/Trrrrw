@@ -1,14 +1,44 @@
-![Trrrrw](https://count.getloli.com/get/@Trrrrw)<img width="20%" src="https://cdn.jsdelivr.net/gh/Trrrrw/image-hosting@master/images/%E5%A4%A7%E4%BD%AC%E9%82%A6%E9%82%A6-%E4%BB%A3%E7%A0%81.webp">
+<p align="center"><a href="https://www.trrw.tech"><img width="50%" alt="Hello, I'm Trrrrw. I do open source!" src="https://count.getloli.com/get/@Trrrrw" /></a></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trrrrw&layout=compact&theme=buefy)![Trrrrw's github stats](https://github-readme-stats.vercel.app/api?username=Trrrrw&show_icons=true)
+<br />
 
-![anili](https://img.anili.st/user/5988404)
+I'm a self-taught passionate Python developer from China 🇨🇳
 
-<!-- <a href="https://www.trrw.tech/hk3/card/" target="_blank"><img style="width:100%" src="https://honkai-3rd-card.trrrrw.repl.co/109/73468149.png"></a>
+**About me**
 
-<a href="https://www.trrw.tech/sr/card/" target="_blank"><img style="width:100%" src="https://star-rail-card.trrrrw.repl.co/109/73468149.png"></a>
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-<a href="https://www.trrw.tech/genshin/card/" target="_blank"><img style="width:100%" src="https://genshin-card.trrw.tech/89/73468149.png"></a> -->
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-<a href="https://ys.himiku.com/" target="_blank"><img style="width:100%" src="https://ys.himiku.com/89/73468149.png"></a>
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
+- 💬 Ask me about anything [here](https://github.com/Trrrrw/Trrrrw/issues)
+
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="qt" src="https://raw.githubusercontent.com/github/explore/bc2367726201f1c5a6733d7ccd209a2e7b90a756/topics/qt/qt.png"></code>
+<code><img height="20" alt="qt" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>    
+
+
+| <a href="https://github.com/Trrrrw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Trrrrw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Trrrrw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trrrrw&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/Trrrrw/hoyo_calendar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trrrrw&repo=hoyo_calendar&theme=buefy" />
+</a>
+<a href="https://github.com/Trrrrw/UserScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trrrrw&repo=UserScript&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/anuraghazra">
+  <img align="right" alt="Anurag Hazra | GitHub" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+</a>
+<a href="https://twitter.com/trrrrrrrw">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/Trrrrw/Trrrrw/master/assets/x.svg" />
+</a>

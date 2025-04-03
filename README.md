@@ -29,8 +29,8 @@ I'm a self-taught passionate Python developer from China 🇨🇳
 <a href="https://github.com/Trrrrw/hoyo_calendar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trrrrw&repo=hoyo_calendar&theme=buefy" />
 </a>
-<a href="https://github.com/Trrrrw/UserScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trrrrw&repo=UserScript&theme=buefy" />
+<a href="https://github.com/Trrrrw/hoyo_video">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trrrrw&repo=hoyo_video&theme=buefy" />
 </a>
 
 <br />

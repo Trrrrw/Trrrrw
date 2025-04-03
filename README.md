@@ -45,3 +45,6 @@ I'm a self-taught passionate Python developer from China 🇨🇳
 <a href="https://ko-fi.com/trrrrw">
   <img align="right" alt="Trrrrw | ko-fi" width="26px" src="https://storage.ko-fi.com/cdn/brandasset/v2/kofi_symbol.png" />
 </a>
+<a href="https://afdian.com/a/trrrrw?tab=home">
+  <img align="right" alt="Trrrrw | afd" width="26px" src="https://raw.githubusercontent.com/Trrrrw/Trrrrw/master/assets/afd.svg" />
+</a>

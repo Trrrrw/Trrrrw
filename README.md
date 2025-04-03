@@ -37,8 +37,11 @@ I'm a self-taught passionate Python developer from China 🇨🇳
 <br />
 
 <a href="https://github.com/anuraghazra">
-  <img align="right" alt="Anurag Hazra | GitHub" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+  <img align="right" alt="Trrrrw | GitHub" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 </a>
 <a href="https://twitter.com/trrrrrrrw">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/Trrrrw/Trrrrw/master/assets/x.svg" />
+  <img align="right" alt="Trrrrw | Twitter" width="20px" src="https://raw.githubusercontent.com/Trrrrw/Trrrrw/master/assets/x.svg" />
+</a>
+<a href="https://ko-fi.com/trrrrw">
+  <img align="right" alt="Trrrrw | ko-fi" width="26px" src="https://storage.ko-fi.com/cdn/brandasset/v2/kofi_symbol.png" />
 </a>
